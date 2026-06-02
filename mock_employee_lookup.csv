@@ -1,0 +1,25 @@
+employee_id,employee_type,active_status
+E001,FTE,Active
+E002,Shared Contractor,Active
+E003,FTE,Active
+E004,Dedicated Contractor,Active
+E005,Shared Contractor,Active
+E006,FTE,Active
+E007,Dedicated Contractor,Active
+E008,FTE,Active
+E009,FTE,Active
+E010,Dedicated Contractor,Inactive
+E011,FTE,Active
+E012,Dedicated Contractor,Active
+E013,Shared Contractor,Active
+E014,Shared Contractor,Active
+E015,Dedicated Contractor,Active
+E016,FTE,Active
+E017,FTE,Active
+E018,Dedicated Contractor,Active
+E019,FTE,Active
+E020,Shared Contractor,Active
+E021,FTE,Active
+E022,FTE,Active
+E023,Dedicated Contractor,Inactive
+E024,FTE,Active

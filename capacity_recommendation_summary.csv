@@ -1,0 +1,9 @@
+analysis_team,stable_contributors,median_productivity_per_contributor,forecast_monthly_demand_2026,estimated_monthly_capacity,capacity_gap,utilization_ratio,sustainability_risk,effectiveness_score,core_flex_recommendation
+Team A,6,10,74,60,14,1.2333333333333334,Moderate Pressure,5.36,Layer 2: Flexible Delivery
+Team B,4,9,82,36,46,2.2777777777777777,High/Critical Pressure,13.7,Layer 1: Stable Core / Dedicated Support
+Team C,5,8,64,40,24,1.6,High/Critical Pressure,8.43,Layer 1: Stable Core / Dedicated Support
+Team D,3,8,48,24,24,2.0,High/Critical Pressure,6.1,Layer 1: Stable Core / Dedicated Support
+Team E,4,7,28,28,0,1.0,Balanced,3.46,Monitor Quarterly
+Team F,2,6,42,12,30,3.5,High/Critical Pressure,11.1,Layer 1: Stable Core / Dedicated Support
+Team G,3,5,14,15,-1,0.9333333333333333,Balanced,2.65,Monitor Quarterly
+Team H,2,5,16,10,6,1.6,High/Critical Pressure,3.82,Layer 2: Flexible Delivery
